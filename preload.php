@@ -9,7 +9,8 @@
  * the LICENSE file that was distributed with this source code.
  */
 
-use CodeIgniter\Boot;
+
+use CodeIgniter\Boot;  
 use Config\Paths;
 
 /*
